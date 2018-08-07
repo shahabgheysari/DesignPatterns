@@ -1,0 +1,9 @@
+{
+    "name": "Design Patterns: PHP Code practice",
+    "description": "Design Patterns Elements of Reusable Object-Oriented Software by GoF",
+    "autoload": {
+        "psr-4": {
+            "DP\\":"src/"
+        }
+    }
+}
